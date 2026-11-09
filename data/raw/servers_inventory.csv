@@ -1,0 +1,127 @@
+server_id,Hostname,cluster ,rack,OS,cpu_cores,RAM,purchase_date,status
+srv-001,alpha-node-01,Alpha,R11,Ubuntu 22.04,8,128GB,2022-09-30,Active
+srv-117,alpha-node-30 ,alpha,R06,Ubuntu 20.04,32,32,2025-12-27,Active
+srv-081,alpha-node-21,alpha,R10,Debian 12,64,256,31/12/2024,Up 
+srv-096,delta-node-24,delta,R01,Debian 12,16,32,2020-06-13,up
+srv039,gamma-node-10,gamma,R05,CentOS 7,32,256GB,2025-06-16,Up 
+srv-034,beta-node-09,beta,R02,Ubuntu 20.04,16,64 GB,11/01/2025,active
+srv-099,gamma-node-25,gamma,R03,RHEL 9,8,64,2023-06-28,Active
+srv-076,delta-node-19,delta,R08,RHEL 9,8,256GB,2024-08-24,active
+srv-089,alpha-node-23,alpha,R05,CentOS 7,64,64GB,2031-02-30,Active
+srv-087,gamma-node-22,gamma,R08,CentOS 7,8,64,"Sep 16, 2024",Active
+srv-077,alpha-node-20,alpha,R10,Ubuntu 20.04,64,256 GB,2024-06-24,ACTIVE
+srv-097,ALPHA-NODE-25,alpha,R04,Ubuntu 20.04,8,64 GB,04/09/2022,active
+srv-113,alpha-node-29,alpha,R06,CentOS 7,32,128 GB,2025-02-01,Up 
+srv-095,gamma-node-24,gamma,R07,Debian 12,N/A,256GB,20/03/2020,active
+srv-006,beta-node-02,beta,R06,Debian 12,32,32,"Feb 24, 2025",active
+srv-093,alpha-node-24,alpha,R08,Ubuntu 20.04,8,128,2024-04-01,active
+srv-030,beta-node-08,beta,R02,RHEL 9,16,128,11.06.2025,up
+srv-023,gamma-node-06,Gamma,R06,Debian 12,16,32,2022-09-13,Up 
+srv-015,GAMMA-NODE-04,gamma,R09,RHEL 9,32,256 GB,2024-06-23,active
+srv-027,gamma-node-07,gamma,R11,Debian 12,64,256,10/05/2021,Active
+srv-106,beta-node-27,beta,R10,Debian 12,32,64,2020-12-20,active
+srv-011,gamma-node-03,gamma,R03,CentOS 7,64,128GB,2022-06-18,up
+srv-069,alpha-node-18,alpha,R11,CentOS 7,32,256GB,2023-04-26,Up 
+srv-064,delta-node-16,Delta,R05,Ubuntu 20.04,9999,N/A,20/03/2021,ACTIVE
+srv-043,GAMMA-NODE-11,gamma,R10,Ubuntu 20.04,8,32,2024-09-13,ACTIVE
+srv-067,gamma-node-17,gamma,R09,Ubuntu 20.04,32,256 GB,2020-10-13,Maintenance
+srv-083,gamma-node-21,gamma,R05,RHEL 9,64,64,29/01/2023,active
+srv-080,DELTA-NODE-20,delta,R02,CentOS 7,16,256,2025-12-15,decommissioned
+srv-062,beta-node-16,beta,R04,CentOS 7,32,128GB,2020-10-11,retired
+srv-020,delta-node-05,delta,R08,Ubuntu 22.04,32,64GB,"Sep 10, 2025",maint
+srv-053,alpha-node-14,alpha,R06,Ubuntu 20.04,32,64 GB,2024-12-14,active
+srv-010,BETA-NODE-03,beta,R04,Debian 12,8,64,27/12/2025,up
+srv-105,alpha-node-27,alpha,R11,Debian 12,64,256GB,2024-11-19,Up 
+srv-022,beta-node-06,Beta,R09,RHEL 9,8,128,2025-06-24,Up 
+srv-114,beta-node-29 ,beta,R05,Ubuntu 20.04,8,64,2023-07-16,up
+srv-055,GAMMA-NODE-14,GAMMA ,R12,Ubuntu 20.04,8,128,2021-08-29,ACTIVE
+srv-118,beta-node-30,beta,R01,Ubuntu 22.04,32,64,2025-07-03,Up 
+srv-009,ALPHA-NODE-03,alpha,R07,Debian 12,64,128,"Oct 28, 2021",Up 
+srv-008,delta-node-02,delta,R01,Ubuntu 20.04,32,32GB,2022-08-11,ACTIVE
+srv-091,gamma-node-23,Gamma,R07,Ubuntu 20.04,64,64,2025-12-27,ACTIVE
+SRV-084,DELTA-NODE-21,delta,R12,Debian 12,16,128 GB,07/10/2023,Active
+srv-070,Beta-Node-18,beta,R04,CentOS 7,64,64,2023-05-17,Active
+srv-038,beta-node-10,beta,R07,Ubuntu 22.04,16,,09/01/2020,maint
+srv-029,alpha-node-08,alpha,R12,Ubuntu 22.04,16,32GB,2020-05-08,ACTIVE
+srv-033,alpha-node-09,alpha,R08,Ubuntu 22.04,8,32GB,07/07/2024,Active
+srv-090,beta-node-23,beta,R07,CentOS 7,8,256 GB,2023-10-08,active
+srv-005,alpha-node-02,alpha,R03,Ubuntu 20.04,32,32,14.01.2021,Up 
+srv-102,beta-node-26,beta,R10,Ubuntu 22.04,32,256 GB,0000-00-00,Up 
+srv-116,delta-node-29,delta,R10,RHEL 9,32,32,2022-03-06,Active
+srv-063,gamma-node-16,gamma,R05,Debian 12,64,128GB,2020-04-23,Up 
+srv-101,ALPHA-NODE-26,alpha,R12,Ubuntu 20.04,8,128GB,2021-05-10,ACTIVE
+srv-036,delta-node-09,delta,R09,Ubuntu 22.04,8,32,17/01/2021,maint
+srv-068,delta-node-17,delta,R06,RHEL 9,32,32GB,2023-05-15,active
+srv-004,delta-node-01,delta,R10,Debian 12,8,64,27/09/2024,up
+srv-104,delta-node-26,delta,R06,CentOS 7,16,256,2021-12-22,ACTIVE
+srv082,BETA-NODE-21,beta,R12,CentOS 7,N/A,128GB,2022-10-09,Active
+srv-086,beta-node-22,beta,R03,Ubuntu 20.04,8,256,2024-07-27,up
+srv-026,beta-node-07,beta,R07,Ubuntu 20.04,16,128GB,2024-06-22,Decommissioned
+srv-049,alpha-node-13,ALPHA ,R09,Debian 12,8,128GB,"Feb 28, 2021",Maintenance
+srv-024,delta-node-06,delta,R02,Ubuntu 22.04,64,32,2025-12-21,up
+srv-047,gamma-node-12,gamma,R10,Ubuntu 22.04,8,64GB,03/09/2025,Up 
+srv-115,gamma-node-29,Gamma,R09,Ubuntu 20.04,16,64 GB,2025-06-06,Up 
+srv-057,alpha-node-15,alpha,R04,Ubuntu 22.04,32,256,"Sep 25, 2021",maint
+srv-018,beta-node-05,beta,R08,RHEL 9,0,32,2021-04-14,ACTIVE
+srv-056,delta-node-14,delta,R01,Debian 12,32,32 GB,2024-01-05,ACTIVE
+srv-110,beta-node-28,beta,R02,Ubuntu 20.04,64,256,"Sep 11, 2022",up
+srv-002,beta-node-01 ,beta,R12,Ubuntu 22.04,8,256GB,2020-05-10,up
+srv-071,gamma-node-18,gamma,R01,Debian 12,32,64,26/10/2024,Up 
+srv-061,alpha-node-16,alpha,R08,Debian 12,32,64 GB,02/07/2022,Up 
+srv-083,gamma-node-21,gamma,R05,RHEL 9,64,64,29/01/2023,Up 
+srv-037,alpha-node-10,alpha,R04,Ubuntu 20.04,64,256GB,25/05/2025,up
+srv-073,alpha-node-19,alpha,R09,CentOS 7,16,32,2023-03-08,up
+srv-100,DELTA-NODE-25,delta,,Debian 12,64,256,2022-03-23,ACTIVE
+SRV-046,Beta-Node-12,beta,R05,CentOS 7,32,32,2020-02-08,Active
+srv-075,gamma-node-19,gamma,R04,Ubuntu 20.04,16,32GB,2020-07-08,Active
+srv-028,delta-node-07 ,delta,R02,Debian 12,8,64,2022-06-21,ACTIVE
+srv-108,delta-node-27,Delta,R06,Ubuntu 20.04,64,64 GB,24.12.2023,active
+srv-059,GAMMA-NODE-15,gamma,R06,CentOS 7,16,128GB,2021-10-14,ACTIVE
+srv-065,alpha-node-17,ALPHA ,R06,Debian 12,64,32GB,2024-04-26,Up 
+srv-051,GAMMA-NODE-13,GAMMA ,R10,Ubuntu 20.04,32,64GB,2022-12-17,ACTIVE
+srv-012,delta-node-03,delta,R01,Ubuntu 20.04,8,128 GB,2024-07-01,Up 
+srv-003,gamma-node-01,gamma,R04,Ubuntu 20.04,8,64GB,2024-09-14,Active
+srv-085,alpha-node-22,Alpha,R09,Ubuntu 22.04,16,64,05/08/2022,up
+srv-040,delta-node-10,Delta,R05,Ubuntu 20.04,8,32 GB,2023-07-08,active
+srv-088,delta-node-22,Delta,R10,Ubuntu 22.04,64,256,2020-01-25,maintenance
+srv-107,gamma-node-27,gamma,R08,Ubuntu 20.04,64,,09.10.2023,ACTIVE
+srv-112,delta-node-28,delta,R07,Ubuntu 20.04,32,128,2025-04-22,active
+srv-064,delta-node-16,Delta,R05,Ubuntu 20.04,9999,N/A,20/03/2021,ACTIVE
+srv-119,gamma-node-30 ,gamma,R01,RHEL 9,32,256,"May 14, 2025",active
+srv-025,alpha-node-07,Alpha,R03,CentOS 7,16,128,01/12/2025,up
+srv-109,alpha-node-28,alpha,R06,Debian 12,32,32GB,2025-10-17,Maintenance
+srv-074,beta-node-19,Beta,R11,RHEL 9,32,32,20/08/2022,Up 
+srv-042,beta-node-11,beta,R03,Ubuntu 22.04,8,64GB,2024-07-11,ACTIVE
+srv-021,ALPHA-NODE-06,alpha,R11,Debian 12,16,64 GB,"Mar 11, 2024",Active
+srv-103,gamma-node-26,GAMMA ,R11,Debian 12,8,256,2025-06-30,ACTIVE
+srv-054,beta-node-14,beta,R07,RHEL 9,8,32,2020-11-04,maintenance
+srv-079,GAMMA-NODE-20,gamma,R12,RHEL 9,64,32,"Oct 17, 2022",maint
+srv-050,beta-node-13,beta,,Debian 12,8,32,2021-09-28,up
+srv-038,beta-node-10,beta,R07,Ubuntu 22.04,16,,09/01/2020,Decommissioned
+srv-007,GAMMA-NODE-02,gamma,R07,Ubuntu 22.04,32,128,2022-02-26,ACTIVE
+srv-013,alpha-node-04,Alpha,R04,RHEL 9,32,64GB,06/08/2025,up
+srv-070,Beta-Node-18,beta,R04,CentOS 7,64,64,2023-05-17,active
+srv-032,delta-node-08,delta,R04,Ubuntu 22.04,8,256,22.12.2023,ACTIVE
+srv-058,beta-node-15 ,beta,R04,Ubuntu 20.04,16,256,11/04/2020,Up 
+srv-035,gamma-node-09,gamma,R03,Debian 12,64,64,2020-11-04,Up 
+srv-016,delta-node-04,DELTA ,R03,RHEL 9,64,32,2020-07-11,up
+srv-060,delta-node-15,delta,R02,CentOS 7,8,256GB,30.06.2022,active
+SRV-031,gamma-node-08 ,gamma,R03,RHEL 9,64,64,2025-04-21,active
+srv-120,DELTA-NODE-30,delta,R03,Ubuntu 22.04,32,256GB,12/04/2021,active
+srv-014,beta-node-04,beta,R11,CentOS 7,16,128,25/07/2021,active
+srv-072,delta-node-18,delta,R10,Debian 12,64,256,16/12/2024,Active
+srv066,beta-node-17,beta,R04,Debian 12,8,256GB,"Jan 07, 2020",Up 
+srv-048,delta-node-12,delta,R06,Ubuntu 22.04,16,128,2023-03-13,ACTIVE
+srv-098,beta-node-25,beta,R11,Ubuntu 22.04,16,256,2022-11-15,up
+srv-017,alpha-node-05,alpha,R03,Ubuntu 20.04,64,32,"Apr 25, 2024",active
+srv-052,delta-node-13,delta,R05,Ubuntu 22.04,8,256 GB,2023-02-07,Up 
+srv-045,ALPHA-NODE-12,alpha,R06,Ubuntu 20.04,32,256GB,2021-06-20,Up 
+srv-114,beta-node-29 ,beta,R05,Ubuntu 20.04,8,64,2023-07-16,up
+srv-094,beta-node-24,beta,R08,Debian 12,32,256,2023-02-13,Up 
+srv-081,alpha-node-21,alpha,R10,Debian 12,64,256,31/12/2024,maint
+srv-092,delta-node-23,delta,R07,RHEL 9,8,32,21.10.2024,active
+srv-111,gamma-node-28,gamma,R11,CentOS 7,64,32,2021-01-16,ACTIVE
+srv-041,alpha-node-11,alpha,R10,CentOS 7,16,32GB,11/09/2025,Up 
+srv-019,gamma-node-05,gamma,R09,Debian 12,32,32 GB,2023-04-17,Up 
+srv-078,beta-node-20,beta,R11,Ubuntu 22.04,8,256GB,2022-06-15,ACTIVE
+srv-044,DELTA-NODE-11,delta,R10,RHEL 9,32,128,16/04/2022,active

@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# katta ma'lumot fayllari
+data/*.csv
+data/*.xlsx
